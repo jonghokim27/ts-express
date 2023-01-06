@@ -1,4 +1,5 @@
 # ts-express
+## An express starter template
 
 `docker build -t ts-express .`  
 `docker rm -f ts-express`  
